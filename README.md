@@ -268,8 +268,10 @@
 :-----:|:-----:|:-----:|:-----:
 <img src="/frontend/src/assets/readmeAssets/EventPage/Seat.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/EventPage/Box.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/EventPage/Dresscode.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/AdminPage/Main.png" width="100%">
 이벤트(좌석 추첨)|이벤트(보물 찾기)|이벤트(드레스코드)|관리자 페이지(정보 수정)
-**boothPage1**|**boothPage2**|**EventPage3**|**AdminPage**
-![image](https://github.com/hyeongjun6364/2023_Sangmyung_Festa_FE/assets/100831607/2de0f393-c0ae-46a5-a623-0f42d2123d7d)|![image](https://github.com/hyeongjun6364/2023_Sangmyung_Festa_FE/assets/100831607/4667bdc4-c437-4445-9bbb-803f4d70ede4)
+**boothPage1**|**boothPage2**|**boothPage3**|**boothPage4**
+![image](https://github.com/hyeongjun6364/2023_Sangmyung_Festa_FE/assets/100831607/2de0f393-c0ae-46a5-a623-0f42d2123d7d)|![image](https://github.com/hyeongjun6364/2023_Sangmyung_Festa_FE/assets/100831607/4667bdc4-c437-4445-9bbb-803f4d70ede4)|![image](https://github.com/hyeongjun6364/2023_Sangmyung_Festa_FE/assets/100831607/f41cd7f0-2ef6-4ad4-b42f-cfb9a8cb2e76)|![image](https://github.com/hyeongjun6364/2023_Sangmyung_Festa_FE/assets/100831607/417d5530-ce0b-431d-8351-46253ba88776)
+
+
 
 
 <br>
