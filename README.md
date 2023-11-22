@@ -268,7 +268,8 @@
 :-----:|:-----:|:-----:|:-----:
 <img src="/frontend/src/assets/readmeAssets/EventPage/Seat.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/EventPage/Box.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/EventPage/Dresscode.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/AdminPage/Main.png" width="100%">
 이벤트(좌석 추첨)|이벤트(보물 찾기)|이벤트(드레스코드)|관리자 페이지(정보 수정)
-
+**boothPage1**|**boothPage2**|**EventPage3**|**AdminPage**
+![image](https://github.com/hyeongjun6364/2023_Sangmyung_Festa_FE/assets/100831607/2de0f393-c0ae-46a5-a623-0f42d2123d7d)
 
 <br>
 
